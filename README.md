@@ -1,3 +1,5 @@
+# Auto Editor
+
 This is a very simple program to automatically edit your videos by removing silences from them.
 
 ### Before using the editor
